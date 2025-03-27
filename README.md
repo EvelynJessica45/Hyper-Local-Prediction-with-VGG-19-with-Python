@@ -9,6 +9,10 @@ This project leverages the VGG-19 deep learning model for hyperlocal weather pre
 - Fine-tuned with transfer learning for optimal accuracy
 - Supports applications in agriculture, disaster management, and urban planning
 
+## **Visual Insight on the Model**
+![VGG-19 Model](https://github.com/EvelynJessica45/Hyper-Local-Prediction-with-VGG-19-with-Python/blob/e8d287927b61f0131766ddb14bcd927246193f87/VGG%2019.png?raw=true)
+
+
 ## **Installation**
 1. Clone the repository:
    ```sh
